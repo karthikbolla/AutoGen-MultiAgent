@@ -1,0 +1,5 @@
+Flask==3.1.0
+autogen==0.8.0
+google-generativeai==0.8.4
+vertexai==1.71.1
+ag2[gemini]==0.8.0
